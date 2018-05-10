@@ -1,0 +1,2 @@
+linepoints[0] = java.awt.Point[x=2,y=1]
+linepoints[1] = java.awt.Point[x=6,y=5]
