@@ -9,3 +9,8 @@
 [Faa Baa](https://www.youtube.com/watch?v=G-lN8vWm3m0&t=90s)
 [Invisible Gorrilla ](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
 [Assumptions](https://www.youtube.com/watch?v=zNbF006Y5x4)
+[]()
+[]()
+[]()
+[]()
+[]()
